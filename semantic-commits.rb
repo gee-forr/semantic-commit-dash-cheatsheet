@@ -62,5 +62,5 @@ EOF
     end
   end
 
-  notes 'Many thanks to Jeremy Mack. [View the original article](http://seesparkbox.com/foundry/author/jeremy_mack.).'
+  notes 'Many thanks to Jeremy Mack. [View the original article](http://seesparkbox.com/foundry/semantic_commit_messages).'
 end
